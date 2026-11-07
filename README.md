@@ -6,4 +6,4 @@
 
 ## Lightroom Classic 插件
 
-[下载插件 ZIP](downloads/LumaIndex-Lightroom-1.1.1.zip) · [安装与使用说明](lightroom/README.md) · [网页安装指南](https://dteer.github.io/lumaindex-support/lightroom.html)
+[下载插件 ZIP](downloads/LumaIndex-Lightroom-1.1.2.zip) · [安装与使用说明](lightroom/README.md) · [网页安装指南](https://dteer.github.io/lumaindex-support/lightroom.html)
