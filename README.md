@@ -14,4 +14,4 @@
 
 AI 中转服务已迁移到 [扩展仓库](https://github.com/dteer/lumaindex-extensions)。
 
-[下载当前安装包](https://github.com/dteer/lumaindex-extensions/raw/refs/heads/main/downloads/LumaIndex-Codex-Service.zip) · [安装、网络与卸载说明](https://github.com/dteer/lumaindex-extensions/tree/main/codex/service)
+[下载当前安装包](https://github.com/dteer/lumaindex-extensions/releases/download/douyin-v1.2.5/LumaIndex-Codex-Service.zip) · [安装、网络与卸载说明](https://github.com/dteer/lumaindex-extensions/tree/main/extensions/ai/codex)
