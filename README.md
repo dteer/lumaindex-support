@@ -12,4 +12,6 @@
 
 独立安装，用于连接用户自行安装并登录的 Codex。其他图库功能无需安装。
 
-[下载当前安装包](downloads/LumaIndex-Codex-Service.zip) · [安装、网络与卸载说明](codex-service/README.md)
+AI 中转服务已迁移到 [扩展仓库](https://github.com/dteer/lumaindex-extensions)。
+
+[下载当前安装包](https://github.com/dteer/lumaindex-extensions/raw/refs/heads/main/downloads/LumaIndex-Codex-Service.zip) · [安装、网络与卸载说明](https://github.com/dteer/lumaindex-extensions/tree/main/codex/service)
